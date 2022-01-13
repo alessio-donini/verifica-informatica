@@ -1,0 +1,7 @@
+E:\4f\verifica_Informatica\bin\Debug\verifica_Informatica.exe.config
+E:\4f\verifica_Informatica\bin\Debug\verifica_Informatica.exe
+E:\4f\verifica_Informatica\bin\Debug\verifica_Informatica.pdb
+E:\4f\verifica_Informatica\obj\Debug\verifica_Informatica.csproj.AssemblyReference.cache
+E:\4f\verifica_Informatica\obj\Debug\verifica_Informatica.csproj.CoreCompileInputs.cache
+E:\4f\verifica_Informatica\obj\Debug\verifica_Informatica.exe
+E:\4f\verifica_Informatica\obj\Debug\verifica_Informatica.pdb
